@@ -1,5 +1,5 @@
 import React from "react";
-import Memory from "../src/pages/Memory";
+import Memory from "../src/pages/Memory"
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 function App() {
